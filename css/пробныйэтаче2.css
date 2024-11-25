@@ -4,10 +4,6 @@ html , body {
     font-weight: 400;
 }
 
-ul::marker {
-    
-}
-
 .headng--text-center{
     text-align: center;
 }
@@ -88,10 +84,6 @@ ul::marker {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
-.logo {
-}
-
 
 /* --------------------------------------------------------------------------------------------------------------------------------------------------- */
 
@@ -197,10 +189,6 @@ ul::marker {
     justify-content: space-between;
 }
 
-.header__content {
-    
-}
-
 .header__play {
     margin-bottom: 40px;
 }
@@ -230,16 +218,8 @@ ul::marker {
     margin-right: 30px;
     color: #1E212C;
 }
-.content-btns {
-}
 .header__content-btn {
     margin-right: 24px;
-}
-.button {
-}
-.button--empty {
-}
-.header__img {
 }
 .header__row {
     margin-top: 189px;
@@ -248,7 +228,6 @@ ul::marker {
     align-items: center;
     margin-bottom: 0px;
 }
-
 
 .header__row>span {
     background: #FF3F3A;
@@ -275,10 +254,6 @@ ul::marker {
 .about {
     padding:180px 0 160px;
 }
-.container {
-}
-.about__inner {
-}
 
 .about__createx {
     display: flex;
@@ -302,10 +277,7 @@ ul::marker {
     margin-right: 50px;
     max-width: 600px;
 }
-.about__heading {
-}
-.heading {
-}
+
 .heading__subtitle {
     line-height: 150%;
     font-weight: 700;
@@ -335,15 +307,11 @@ ul::marker {
     margin-bottom: 60px;
 
 }
-.about__btn-box {
-}
+
 .about__btn {
     margin-right: 24px;
 }
-.button {
-}
-.button--empty {
-}
+
 .about__values {
     display: flex;
     justify-content: space-between;
@@ -393,20 +361,13 @@ ul::marker {
     margin-bottom: 178px;
 }
 
-.directions__inner {
-}
 .directions__heading {
     text-align: center;
 }
 .heading {
     margin-bottom: 90px;
 }
-.heading__subtitle {
-}
-.heading__title {
-}
-.directions__body {
-}
+
 .directions__filter-box {
     display: flex;
     margin-bottom: 40px;
@@ -596,8 +557,6 @@ ul::marker {
     text-align: center; 
 }
 
-.heading__title {
-}
 .certification__text {
     margin-bottom: 8px;
     font-weight: 400;
@@ -621,11 +580,6 @@ ul::marker {
 
 .main__team {
     padding: 160px 0 180px;
-}
-.team {
-}
-
-.team__inner {
 }
 
 .team__heading {
@@ -780,10 +734,6 @@ ul::marker {
 
 }
 
-.team__slider-next {
-
-}
-
 
 /* ---------------------------------------------------------------------------------------------------------------------------------------- */
 
@@ -792,21 +742,10 @@ ul::marker {
     padding-bottom: 195px;
 }
 
-.testim {
-}
-.container {
-}
-.testim__inner {
-}
 .testim__heading {
     margin-bottom: 60px;
 }
-.heading {
-}
-.heading__subtitle {
-}
-.heading__title {
-}
+
 .testim__slider-wrapper {
     padding: 0 50px;
     position: relative;
@@ -852,8 +791,7 @@ ul::marker {
     overflow: hidden;
     margin-right: 20px;
 }
-.testim__info {
-}
+
 .testim__info-name {
     color: #1E212C;
     font-weight: 700;
@@ -986,10 +924,6 @@ ul::marker {
     margin-bottom: 60px;
 }
 
-.heading__subtitle {
-}
-.heading__title {
-}
 .jobs__body {
     width: 100%;
 }
@@ -998,8 +932,6 @@ ul::marker {
     justify-items: center;
     grid-template: repeat(2, auto) / repeat(6, 1fr);
     gap: 40px 100px;
-}
-.jobs__companies-item {
 }
 
 .jobs__companies-item img{
@@ -1023,10 +955,6 @@ ul::marker {
     padding: 115px 0 185px;
 }
 
-.course {
-}
-.container {
-}
 .course__inner {
     display: flex;
     justify-content: space-between;
@@ -1037,10 +965,6 @@ ul::marker {
 }
 .course__heading {
     margin-bottom: 60px;
-}
-
-.course__acc {
-
 }
 
 .coures__acc-link {
@@ -1069,9 +993,6 @@ ul::marker {
     font-weight: 400;
     color: #FF3F3A;
     margin-left: 41px;
-}
-
-.course__acc-head::before {
 }
 
 .course__acc-head::before,
@@ -1106,12 +1027,6 @@ ul::marker {
     padding-bottom: 213px;
 }
 
-.blog {
-}
-
-.blog__inner {
-}
-
 .blog__header {
     display: flex;
     justify-content: space-between;
@@ -1121,11 +1036,6 @@ ul::marker {
 
 .blog__heading {
     margin-bottom: 0;
-}
-
-
-.blog__top-button {
-
 }
 
 .blog__content {
@@ -1269,24 +1179,16 @@ ul::marker {
     padding-bottom: 180px;
 }
 
-.contact {
-}
-
-
 .contact__inner {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.contact__content {
 
-}
 .contact__heading {
     margin-bottom: 0;
 }
 
-.contact__info {
-}
 .contact__info-item {
     padding-bottom: 24px;
     position: relative;
@@ -1334,8 +1236,6 @@ ul::marker {
     transition: all .3s;
 } 
 
-.contact__sm {
-}
 .contact__sm-title {
     font-size: 20px;
     font-weight: bold;
@@ -1387,8 +1287,7 @@ ul::marker {
     justify-content: space-between;
     align-items: center;
 }
-.questions__img-box {
-}
+
 .questions__content {
     margin-left: 30px;
 }
@@ -1396,8 +1295,6 @@ ul::marker {
     margin-bottom: 40px;
 }
 
-.questions__form {
-}
 .questions__form-row {
     display: flex;
     margin-bottom: 24px;
@@ -1442,12 +1339,6 @@ ul::marker {
     font-weight: 400;
 } 
 
-
-.questions__send {
-}
-.questions__form-textarea {
-
-}
 .questions__form-checkbox {
     position: relative;
     width: 16px;
@@ -1548,9 +1439,6 @@ ul::marker {
     white-space: normal;
 }
 
-
-.footer__col-list {
-}
 .footer__col-item {
     margin-bottom: 8px;
 }
@@ -2098,9 +1986,6 @@ ul::marker {
     .team__img-box {
         max-width: 300px;
         margin: 0 auto 16px;
-    }
-    .team__dots {
-        
     }
     .team__dots button {
         font-size: 0;
