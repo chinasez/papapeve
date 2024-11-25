@@ -598,7 +598,7 @@ html , body {
 
 .team__slide {
     padding: 0 15px;
-    animation: rotation1 1s infinite reverse;
+    /* animation: rotation1 1s infinite reverse; */
 }
 
 @keyframes rotation1 {
